@@ -1,11 +1,11 @@
 # HackPrincetonF16
 
-In the current media landscape, control over distribution has become almost as important as the actual creation of content, and that has given Facebook a huge amount of power. The impact that Facebook newsfeed has in the formation of opinions in the real world is so huge that it potentially affected the 2016 election decisions, however these newsfeed were not completely accurate. Our solution? FiB because with 1.5 Billion Users, Every Single Tweak in an Algorithm Can Make a Change, and we dont stop at just one.
+In the current media landscape, control over distribution has become almost as important as the actual creation of content, and that has given Facebook a huge amount of power. The impact that Facebook newsfeed has in the formation of opinions in the real world is so huge that it potentially affected the 2016 election decisions, however these newsfeed were not completely accurate. Our solution? FiB because with 1.5 Billion Users, Every Single Tweak in an Algorithm Can Make a Change, and we don't stop at just one.
 
 ##Installation
 ####The easy way
 Go to the [chrome web store](https://chrome.google.com/webstore/detail/fib/ofpheinlpjdffpdakjegbcphdfeekpnn "Chrome Web Store") and add our extension to your browser
-####The harder way 
+####The harder way
 #####(For those who want the latest features)
 1. Download "extension" folder from our repository
 2. Go to chrome and enable developer settings.
