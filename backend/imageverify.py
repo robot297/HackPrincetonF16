@@ -3,6 +3,9 @@ import json
 from pprint import pprint
 import urllib
 
+from twython import TwythonError
+
+
 def detectAdultContent(body):
     dp1 = ""
     dp2 = ""
